@@ -1,0 +1,13 @@
+C:\Users\ian\source\repos\Task4\Task4\bin\Debug\Task4.exe.config
+C:\Users\ian\source\repos\Task4\Task4\bin\Debug\Task4.exe
+C:\Users\ian\source\repos\Task4\Task4\bin\Debug\Task4.pdb
+C:\Users\ian\source\repos\Task4\Task4\obj\Debug\Task4.Form1.resources
+C:\Users\ian\source\repos\Task4\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\Users\ian\source\repos\Task4\Task4\obj\Debug\Task4.csproj.GenerateResource.Cache
+C:\Users\ian\source\repos\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\ian\source\repos\Task4\Task4\obj\Debug\Task4.exe
+C:\Users\ian\source\repos\Task4\Task4\obj\Debug\Task4.pdb
+C:\Users\ian\source\repos\Task4\Task4\obj\Debug\Task4.Table.resources
+C:\Users\ian\source\repos\Task4\Task4\obj\Debug\Task4.Output.resources
+C:\Users\ian\source\repos\Task4\Task4\obj\Debug\Task4.Input.resources
+C:\Users\ian\source\repos\Task4\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache

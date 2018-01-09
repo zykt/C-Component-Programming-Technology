@@ -1,0 +1,13 @@
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\bin\Debug\Task2._2._.exe
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\bin\Debug\Task2._2._.pdb
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\obj\x86\Debug\Task2._2.Properties.Resources.resources
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\obj\x86\Debug\Task2._2._.exe
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\obj\x86\Debug\Task2._2._.pdb
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\obj\x86\Debug\Task2._2.Form11.resources
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\obj\x86\Debug\Task2._2.Form2.resources
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\obj\x86\Debug\Task2._2.Form1.resources
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\obj\x86\Debug\Task2._2.Form12.resources
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.2\Task2.2\obj\x86\Debug\Task2._2.Form3.resources

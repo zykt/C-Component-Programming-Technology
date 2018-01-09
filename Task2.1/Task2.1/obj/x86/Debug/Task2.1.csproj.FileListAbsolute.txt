@@ -1,0 +1,10 @@
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.1\Task2.1\bin\Debug\Task2.1.exe
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.1\Task2.1\bin\Debug\Task2.1.pdb
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2._1.IntroForm.resources
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2._1.CalcForm.resources
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2._1.Properties.Resources.resources
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2.1.exe
+C:\Documents and Settings\st040271\my documents\visual studio 2010\Projects\Task2.1\Task2.1\obj\x86\Debug\Task2.1.pdb

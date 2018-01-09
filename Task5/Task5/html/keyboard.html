@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body style="background-color: #C0FFC0">
+    <article style="background-color: #FFFFFF">
+        <h1>Keyboard events</h1>
+        <section>
+            <h3>Catching key presses</h3>
+            <ol>
+                <li>Find either KeyDown or KeyUp event</li> 
+                <li>Create handler for them by double clicking or manually writing code</li>
+                <li>Check which key launched event: <code>if (e.KeyCode == Keys.Enter) ...</code></li>
+            </ol>
+        </section>
+        <section>
+            <h3>Notable Keycodes</h3>
+            <p>Char keys: <code>Keys.A, Keys.B ... Keys.Z</code> </p>
+            <p>Number keys: <code>Keys.D1, ... Keys.D0</code></p>
+            <p>System keys: <code>Keys.Enter, Keys.Escape, Keys.Alt, Keys.Control ...</code></p>
+            <p>And many other</p>
+        </section>
+        <section>
+            <h3>Example</h3>
+            <code>
+                <pre>
+private void Form1_KeyDown(object sender, KeyEventArgs e)
+{
+    if (e.KeyCode == Keys.Enter) 
+    {
+        this.Label1.Text = "Press any other key to fine their keycode";
+    } else 
+    {
+        this.Label1.Text = $"Key pressed {e.KeyCode}";
+    }
+}
+                </pre>
+            </code>
+        </section>
+    </article>
+</body>
+</html>

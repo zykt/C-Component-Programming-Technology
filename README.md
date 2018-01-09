@@ -9,8 +9,8 @@ University assignments
 ## Task 3
 ![Task3](/Screenshots/Task3.png)
 ## Task 4
-![Task4a](/Screenshots/Task2a.png)
-![Task4b](/Screenshots/Task2b.png)
+![Task4a](/Screenshots/Task4a.png)
+![Task4b](/Screenshots/Task4b.png)
 ## Task 5
 ![Task5a](/Screenshots/Task5a.png)
 ![Task5b](/Screenshots/Task5b.png)
